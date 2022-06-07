@@ -58,7 +58,7 @@ public class PlayerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //プレイヤーのワールド座標を取得
+        //プレイヤーのワールド座標を取得！
         Vector3 pos=transform.position;
 
         //右矢印キーが入力されたとき
